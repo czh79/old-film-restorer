@@ -1,0 +1,7 @@
+# 老片 AI 修复
+torch>=2.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+
+# 系统依赖：FFmpeg / ffprobe 需单独安装并加入 PATH
+# 需自行下载 Real-ESRGAN 权重（*.pth）并放到脚本同目录
